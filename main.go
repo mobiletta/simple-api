@@ -1,5 +1,7 @@
 package main
 
+//go:generate goversioninfo
+
 import (
 	"github.com/Sirupsen/logrus"
 	"github.com/spf13/viper"
