@@ -41,6 +41,11 @@
 			"Rev": "b61c93cb7f67533c8bfbb5ea450efc07e5833c5e"
 		},
 		{
+			"ImportPath": "github.com/gorilla/websocket",
+			"Comment": "v1.2.0-6-ga69d9f6",
+			"Rev": "a69d9f6de432e2c6b296a947d8a5ee88f68522cf"
+		},
+		{
 			"ImportPath": "github.com/hashicorp/hcl",
 			"Rev": "392dba7d905ed5d04a5794ba89f558b27e2ba1ca"
 		},
